@@ -1,0 +1,45 @@
+.nav-header {
+    background-color: #181818;
+}
+.nav-items {
+    max-width: 1500px;
+    list-style: none;
+}
+.nav-btn {
+    background-color: #0C0C0C;
+    border: 0;
+    color: white;
+}
+.nav-item {
+    color: white;
+}
+.nav-text-item {
+    font-size: 0.95rem;
+    cursor: pointer;
+}
+.menu {
+    font-size: 45px;
+    cursor: pointer;
+}
+.logo-img {
+    width: 7rem;
+}
+.nav-sm {
+    overflow: hidden;
+    transition: all 0.4s linear;
+}
+.nav-visible {
+    height: 530px;
+}
+.nav-hidden {
+    height: 0;
+}
+.nav-number {
+    font-family: "Unbounded", sans-serif;
+}
+
+@media (max-width: 992px) {
+    .nav-text-item {
+        font-size: 1.5rem;
+    }
+}
