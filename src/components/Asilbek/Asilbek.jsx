@@ -2,7 +2,12 @@ import React from 'react'
 
 const Asilbek = () => {
   return (
-    <div>Asilbek</div>
+    <>
+      <h1>salom hammaga</h1>
+      <h1>salom hammaga</h1>
+      <h1>salom hammaga</h1>
+      <h1>salom hammaga</h1>
+    </>
   )
 }
 
