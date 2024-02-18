@@ -1,8 +1,11 @@
 import React from 'react'
+import Card from './Card/Cards'
 
 const Asadbek = () => {
   return (
-    <div>Asadbek</div>
+   <>
+   <Card/>
+   </>
   )
 }
 

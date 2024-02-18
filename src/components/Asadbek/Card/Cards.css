@@ -1,0 +1,50 @@
+.cars1{
+    width: 430px;
+    height: 322px;
+    margin-top: 2em;
+    margin-left: 0.7em;
+}
+.car-y{
+    font-size: 22px;
+    color: #000000;
+    Width: 171px;
+    Height:27px;
+    margin-left: 0.5em;
+    margin-top: 0.4em;
+  
+}  
+.icon{
+    width: 28px;
+    height: 28px;
+    margin-left: 1em;
+ }
+ .car-y2{
+    font-size: 18px;
+    width: 131px;
+    height: 31px;
+    color: #000000;
+    margin-left: 3em;
+    margin-top: -1.3em;
+ }
+ 
+ .icon2{
+    width: 28px;
+    height: 28px;
+    margin-left: 1em;
+    margin-top: -0.3em;
+ }
+ .car-y3{
+    font-size: 18px;
+    width: 131px;
+    height: 31px;
+    color: #000000;
+    margin-left: 3em;
+    margin-top: -1.4em;
+ }
+
+ .car-y4{
+    font-size: 28px;
+    width: 215px;
+    height: 34px;
+    color: #000000;
+ }
