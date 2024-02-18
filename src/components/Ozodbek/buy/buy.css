@@ -44,3 +44,11 @@
     grid-template-columns: repeat(2, 1fr);
   }
 }
+@media (max-width: 768px) {
+  .cars {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .card-car {
+    margin: 0 auto;
+  }
+}

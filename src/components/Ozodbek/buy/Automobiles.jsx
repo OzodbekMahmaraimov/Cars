@@ -6,7 +6,7 @@ import { LazyLoadImage } from 'react-lazy-load-image-component';
 
 const Automobiles = ({ city, model, img }) => {
     return (
-        <Card className='position-relative border-0 overflow-hidden'>
+        <Card className='position-relative border-0 overflow-hidden card-car'>
             <button className='position-absolute border-0 py-1 px-3 rounded-2 top-0 end-0 me-3 mt-3'>{city}</button>
             <LazyLoadImage src={img} effect='blur' className='cardImg pt-5 pb-4 mt-3 pointer' />
             <CardBody className='d-flex flex-column gap-2 px-4'>
