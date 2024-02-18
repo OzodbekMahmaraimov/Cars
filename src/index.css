@@ -6,6 +6,14 @@
     box-sizing: border-box;
 }
 
+body {
+    background: #F4F4F4 !important;
+}
+
 .unbounded {
     font-family: "Unbounded", sans-serif;
+}
+
+.pointer {
+    cursor: pointer;
 }

@@ -1,0 +1,46 @@
+.buy {
+  max-width: 1300px;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+.cars {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+}
+.car-btns {
+  border: 0;
+  transition: all 0.3s linear;
+  background-color: white;
+}
+.car-btns:hover {
+  background-color: #eaeaea;
+}
+.cardImg {
+  margin: 0 auto;
+  width: 21rem;
+  height: 14.5rem;
+  object-fit: cover;
+  transition: all 0.5s linear !important;
+}
+.cardImg:hover {
+  transform: scale(1.05);
+}
+.sifat {
+  color: #707070;
+  font-weight: 600;
+}
+.car-btn {
+  background-image: linear-gradient(to left, #e3d293, #9f7437);
+  padding: 0.8rem 1.2rem;
+}
+.text-kulrang {
+    color: #ABABAB;
+}
+
+@media (max-width: 1200px) {
+  .cars {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
