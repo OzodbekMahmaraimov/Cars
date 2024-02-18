@@ -36,7 +36,7 @@ const Buy = () => {
   };
 
   return (
-    <section className='buy mx-auto mt-5'>
+    <section className='buy mx-auto mt-5 pb-5'>
       <div className='w-100 d-flex align-items-center flex-column flex-lg-row gap-2 gap-lg-5'>
         <h1 className='unbounded'>Наш автопарк</h1>
         <button className='btn btn-outline-dark py-2'>Смотреть все</button>

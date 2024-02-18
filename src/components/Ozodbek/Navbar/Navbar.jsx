@@ -78,13 +78,13 @@ const Navbar = () => {
                 <button className='nav-btn rounded-start text-uppercase py-2 px-4 d-flex gap-2 justify-content-center align-items-center'><MdPlace color='#E3D293' />Москва</button>
                 <button className='nav-btn rounded-end text-uppercase py-2 px-4 d-flex gap-2 justify-content-center align-items-center'><MdPlace color='#5A5A5A' />Дубай</button>
               </li>
-              <li className='nav-item nav-text-item'>Подобрать авто</li>
-              <li className='nav-item nav-text-item'>Условия</li>
-              <li className='nav-item nav-text-item'>Цены</li>
-              <li className='nav-item nav-text-item'>О нас</li>
-              <li className='nav-item nav-text-item'>Контакты</li>
-              <li className='nav-item d-flex gap-2'><FaWhatsapp fontSize={30} color='#5d5d5d' /><FaTelegramPlane fontSize={30} color='#5d5d5d' /></li>
-              <li className='nav-item nav-text-item'>+7 (499) 110-20-47</li>
+              <li className='nav-item nav-text-item text-center'>Подобрать авто</li>
+              <li className='nav-item nav-text-item text-center'>Условия</li>
+              <li className='nav-item nav-text-item text-center'>Цены</li>
+              <li className='nav-item nav-text-item text-center'>О нас</li>
+              <li className='nav-item nav-text-item text-center'>Контакты</li>
+              <li className='nav-item d-flex gap-2 mx-auto'><FaWhatsapp fontSize={30} color='#5d5d5d' /><FaTelegramPlane fontSize={30} color='#5d5d5d' /></li>
+              <li className='nav-item nav-text-item text-center'>+7 (499) 110-20-47</li>
               <li className='nav-item'><button className='nav-btn w-100 rounded-2 py-2 px-5 d-flex gap-2 justify-content-center align-items-center'>Заказать звонок</button></li>
             </ul>
           </nav>

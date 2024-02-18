@@ -1,5 +1,5 @@
 import React from 'react'
-import { Card, CardBody, CardTitle } from 'reactstrap'
+import { Card, CardBody } from 'reactstrap'
 import nimadir from '../images/nimadir.svg';
 import balon from '../images/balon.svg';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
