@@ -18,7 +18,7 @@ const Automobiles = ({ city, model, img }) => {
                     <p className='pt-2 sifat'>317 л.с.</p>
                 </div>
                 <hr />
-                <div className='d-flex justify-content-between align-items-center'>
+                <div className='d-flex flex-lg-row flex-column justify-content-between align-items-center gap-lg-0 gap-3'>
                     <button className='car-btn border-0 rounded-2 text-white'>Забронировать</button>
                     <h6><span className='text-kulrang'>от</span> <span className='fs-2'>7 150</span> <span className='text-kulrang'>руб/сут.</span></h6>
                 </div>

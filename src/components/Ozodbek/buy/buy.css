@@ -51,4 +51,7 @@
   .card-car {
     margin: 0 auto;
   }
+  .car-btn {
+    width: 100%;
+  }
 }
