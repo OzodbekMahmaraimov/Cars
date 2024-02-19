@@ -1,10 +1,10 @@
 import React from 'react'
-import { Card, CardBody, CardTitle } from 'reactstrap'
+import { Card, CardBody } from 'reactstrap'
 import nimadir from '../images/nimadir.svg';
 import balon from '../images/balon.svg';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 
-const Automobiles = ({ city, model, img }) => {
+const Automobiles = ({ city, model, img, modal }) => {
     return (
         <Card className='position-relative border-0 overflow-hidden card-car'>
             <button className='position-absolute border-0 py-1 px-3 rounded-2 top-0 end-0 me-3 mt-3'>{city}</button>
@@ -19,7 +19,7 @@ const Automobiles = ({ city, model, img }) => {
                 </div>
                 <hr />
                 <div className='d-flex flex-lg-row flex-column justify-content-between align-items-center gap-lg-0 gap-3'>
-                    <button className='car-btn border-0 rounded-2 text-white'>Забронировать</button>
+                    <button onClick={modal} className='car-btn border-0 rounded-2 text-white'>Забронировать</button>
                     <h6><span className='text-kulrang'>от</span> <span className='fs-2'>7 150</span> <span className='text-kulrang'>руб/сут.</span></h6>
                 </div>
             </CardBody>
