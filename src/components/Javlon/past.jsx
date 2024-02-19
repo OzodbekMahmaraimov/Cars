@@ -54,17 +54,29 @@ const Javlon = () => {
            <h6 className='mt-1 qar1'>Все наши автомобили застрахованы по<br></br> ОСАГО И КАСКО</h6>
         </div> 
       </div>
-      <div className='container mt-5 '>
+      <div className='container mt-5 d-flex flex-md-row flex-column'>
         
-        <img className='container' src="https://s3-alpha-sig.figma.com/img/0cc3/f466/786915310e52bd66ec446ac72e49b1f4?Expires=1708905600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XCLQO79i8~Zcy4ehWSiLknU4ZffakvdQ6iz0fK2zfG3LvrEtq-sZ~DAGeEWUj8bOGPdQFvZNaZQTA61MQYNy54vKWDcWGpsu8l5kp-boUcEwsAxOVQep~2MEviGXvy43LgZob8BncIHeaACc70y2PZh~B6zTOhUbS4McbsEFzmGO~6DDvAIqL~MR8HEWCGmyaLMuC-hJqC~ThRD4~x8hgxoW4MBUQEdLnWAHvPUPtSu-ZknCB45UrfNh-iZPEJMhXiLFzi-DMsODRsrEkcnb7VHme8IaVmYjLtvJsAN-J6cVBgtOF-HRqOi2w9rFytzTffvuLdShpEmY1mt~QAtW3Q__" alt="" />
-       <div className='pastga'>
-        <h5 className='ms-5'>Car hire in Dubai for different budget</h5>
-        <p className='ms-5 '>We guarantee that you get technically sound, clean car with a full tank, comfortable interior. Our staff will independently pick up the car at the expiration of the rental term at the specified location.
+        <img src="https://s3-alpha-sig.figma.com/img/0cc3/f466/786915310e52bd66ec446ac72e49b1f4?Expires=1708905600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XCLQO79i8~Zcy4ehWSiLknU4ZffakvdQ6iz0fK2zfG3LvrEtq-sZ~DAGeEWUj8bOGPdQFvZNaZQTA61MQYNy54vKWDcWGpsu8l5kp-boUcEwsAxOVQep~2MEviGXvy43LgZob8BncIHeaACc70y2PZh~B6zTOhUbS4McbsEFzmGO~6DDvAIqL~MR8HEWCGmyaLMuC-hJqC~ThRD4~x8hgxoW4MBUQEdLnWAHvPUPtSu-ZknCB45UrfNh-iZPEJMhXiLFzi-DMsODRsrEkcnb7VHme8IaVmYjLtvJsAN-J6cVBgtOF-HRqOi2w9rFytzTffvuLdShpEmY1mt~QAtW3Q__" alt="" />
+       <div className='pastga ms-2'>
+        <h5 >Car hire in Dubai for different budget</h5>
+        <p >We guarantee that you get technically sound, clean car with a full tank, comfortable interior. Our staff will independently pick up the car at the expiration of the rental term at the specified location.
             We strive to make car rental in Dubai affordable for everyone. That's why you can rent cars in our office:
             Economy. Sedans and SUVs you can rent from 149 AED ($40) per day.Comfort. Sports cars, vans, SUVs, sedans with comfortable saloon can be rented from 219 AED ($59) per day.Premium. Premium SUVs and prestigious convertibles can be rent from AED 439 ($119) per day.</p>
         </div>
       </div>
-      
+      <div className='container mt-2 d-flex flex-md-row flex-column'>
+       <div className='pastga ms-2 mt-5'>
+        <h5 >Car hire in Dubai for different budget</h5>
+        <p >We guarantee that you get technically sound, clean car with a full tank, comfortable interior. Our staff will independently pick up the car at the expiration of the rental term at the specified location.
+            We strive to make car rental in Dubai affordable for everyone. That's why you can rent cars in our office:
+            Economy. Sedans and SUVs you can rent from 149 AED ($40) per day.Comfort. Sports cars, vans, SUVs, sedans with comfortable saloon can be rented from 219 AED ($59) per day.Premium. Premium SUVs and prestigious convertibles can be rent from AED 439 ($119) per day.</p>
+        </div>
+        <img src="https://s3-alpha-sig.figma.com/img/46ea/23e2/214e146b52a6b7526dc3569a8a544efe?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KMHdJSMJ3SakFwqSn2eI~4x8uvYoUM3sqY3FCWdG~N0ebUFPxKJZWsqKZH-r5i-BeeMrWh4DnC3nQhQMMaaAHFHH3OrjhQlpJarPBXSTJ46VFewgPJ~VTmCi-HrAUIESo4dDVveyXDi-0GVh75xWJ9l98rmouPWPII2fsOeXID7QU1GMwdPJrue2W8zpLsbMtCrj2XclJY-iMSuOiFMAqbYrR9NlEhvT~p2RjGwRX-wno5w6triIZIPmgXuoRi6dkxlevInNGWO9LWfDnAnaO1Y3AuMlwXlauBikzqSxuZ0N~jKrgaKDEouNXva7fzDFhSC9tRAbjcBdK9nKbNH-mw__" alt="" />
+      </div>
+       <div className='ertak d-flex '>
+          <img className='' src="https://s3-alpha-sig.figma.com/img/d595/f638/40921ab7a9eb68e693bf9c3b03ef4b1e?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KSieRXS9wHfRxSi8ugI3q0Ak27PlsZmM42C42U6AyK4mmK05grqrGQnAjSjhjsgb9dwhK96GxiWvmUwepC04allzU8ATpJCQU2pD5c86K~Y5epZqm8RZ-QBi4dGWg84lZZjdaZGG6ty~g8nyDkmZgoHtZKm0jZmdtGMbaudvxc6Ktb2MkO-2G-P-owlt-ec8mLXLDV7GzfibCiBWLNdy-aUCpvHBhgr7D43Us8oGuxhepcBsTaA5DlDulJ~rrchUd41aid6Q~gDYvfQNXRLc5RDSYJ99kw3Hv39tbRFUcobfqvH10ibsX1DEUfBdlRv5iqFqJBvaEYlH0T5FAZFuwg__" alt="" />
+          <p>более 8 лет на рынке проката авто</p>
+       </div>
       </div>
     </div>
 
