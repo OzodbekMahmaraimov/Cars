@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import './buy.css'
 import Buttons from './Buttons'
 import car1 from '../images/car-1.svg';
@@ -9,6 +9,8 @@ import car5 from '../images/car-5.svg';
 import Automobiles from './Automobiles';
 import automobile from './automobile.json';
 import Carousel from "react-multi-carousel";
+import { ModalHeader, Modal, ModalBody, Input, ModalFooter, Button } from 'reactstrap';
+import { MdOutlineAttachMoney } from "react-icons/md";
 
 const Buy = () => {
 
@@ -35,6 +37,10 @@ const Buy = () => {
     }
   };
 
+  const [openModal, setOpenModal] = useState(false);
+
+  const openModalUser = () => setOpenModal(!openModal);
+
   return (
     <section className='buy mx-auto mt-5 pb-5'>
       <div className='w-100 d-flex align-items-center flex-column flex-lg-row gap-2 gap-lg-5'>
@@ -51,10 +57,28 @@ const Buy = () => {
       <div className='w-100 cars mt-3'>
         {automobile.map((item, idx) => {
           return (
-            <Automobiles key={idx} city={item.city} img={item.img} model={item.model} />
+            <Automobiles modal={openModalUser} key={idx} city={item.city} img={item.img} model={item.model} />
           )
         })}
       </div>
+
+      <Modal centered isOpen={openModal} toggle={openModalUser}>
+        <ModalHeader>
+          Ma'lumotlaringizni kiriting
+        </ModalHeader>
+        <ModalBody>
+          <label className='pb-2' htmlFor="firstName">FirstName</label>
+          <Input placeholder='Ozodbek' type="text" id='username' />
+          <label htmlFor="lastname" className='pb-2 pt-3'>LastName</label>
+          <Input placeholder='Mahmaraimov' type='text' id='lastname' />
+          <label htmlFor="email" className='pb-2 pt-3'>Email</label>
+          <Input placeholder='ozodbekmahmaraimov@gmail.com' type='email' id='email' />
+        </ModalBody>
+        <ModalFooter>
+          <Button onClick={openModalUser}>Cancel</Button>
+          <Button className='d-flex align-items-center' color='success'><MdOutlineAttachMoney />Buy</Button>
+        </ModalFooter>
+      </Modal>
     </section>
   )
 }
