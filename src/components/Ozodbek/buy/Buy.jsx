@@ -11,7 +11,6 @@ import automobile from './automobile.json';
 import Carousel from "react-multi-carousel";
 
 const Buy = () => {
-
   const responsive = {
     superLargeDesktop: {
       breakpoint: { max: 4000, min: 3000 },
