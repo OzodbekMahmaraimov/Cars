@@ -1,0 +1,47 @@
+[
+    {
+        "img": "https://s3-alpha-sig.figma.com/img/7a71/adac/cd05aa1948a8c7612463b233f71e37f2?Expires=1708905600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YvfV3LZZmrwoOuxnXotLMmyfQfKJ8Zw~aaLfWznJXHkUMkcDjoq3MaTc0cUQ4Ox~06ozfCI-wXtm6KvXYcXZY1lIMEx~KvXLexGs7zB1IMGe3masxS4zhikGeJCXJALUYVfUQgFK3Mh~vOUkS0uZk~r9u1D21vCSq34as2RzSBLhUFxmIEpqEQQzepxElWqPLtEoZm1wpCspN4NZKDVfKwNjxj4xUK5aceen4mQcGR-469s9KObt4~Z6T04eed5ao1daew2iVDH5eYA5W~klld~TAEHj1Nj2uyQFJIRwLgsBWcnHuNCLXX8md66uJJyHVoByUyui9bGC0F57UCSPfQ__",
+        "city": "Москва",
+        "model": "BMW X2, 2021"
+    },
+    {
+        "img": "https://s3-alpha-sig.figma.com/img/a31b/9806/61592bc307d1efaa2fa7eef63d9eb957?Expires=1708905600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ESt8UDAy82nuomt1-bY-FN6dM5lowY1w7QGGN5i-acgRLaVFY4GXo1hEjvVLHYujB4qXs1oxU6BsPix-xdmuzV5fgvxASTVD7QQrx1-ht8sz59Or6p-wamUE0LoDZg-mLiJQatg0BhxUgbJLwnW~6w415PFP6TIqZQNar9xs4WZEx9RrE~FPfStRkHaHu1cB82IIinzH1Lr12NotVZ7AYanmKAmfmBqLfdmFMBkuccClhmGJZPqAThShld4nX0Zu39nZOPSBMmNHsqhHT9RWGdcFBcstYM-RBuOPEyt9jfU66ltoDYCNKQ4rzTmRv6evFiwStiI2Fgn7BQOWUOySXw__",
+        "city": "Дубай",
+        "model": "Kia Sportage, 2022"
+    },
+    {
+        "img": "https://s3-alpha-sig.figma.com/img/a39c/4680/5f1bfc7a4af6efab831b4775e78ffe06?Expires=1708905600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=FrRAdZjHCivzvhQfLJonZCjKgc3W28J3dyXRwZWJ0EzU~hwn2RfxfZTtaNB4mEIANo9r~wzvYbChCiRzqGUL1vkopOnsMt~X4YSC4wwVsxwdetu-J-Evbt8ah~ymTAsjxJCtrCqpIRNLUfp3bZ8sT1fIIHllCeoT3dvlNe6zRahBr8G~QdYoDRKSSKqEvj3gUCvKAcLkakWdmIRmJjndnnZA0KuvGHTqK~OnkGMKcFpiyky6yi0GnobyLvgt9n9z2qIZcuZh5pzygHQLZuV0fjrZiTU~iVDEU2JuznghRFLnFlkBNuSuTTEIIJoVTTIEKNPHsT6mHqBf7WoOhimvGA__",
+        "city": "Москва",
+        "model": "Lexus IS, 2018"
+    },
+    {
+        "img": "https://s3-alpha-sig.figma.com/img/815a/1f4c/5d653cb6ac719269ea6b6839462fa618?Expires=1708905600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LQ9DmR2-lmnlcmJ9R4NsMEDAY5YeDoaWiOJaV~1cH8BdVyyKFUNQ3r4Ay6VF8csaYEfPFz66RIcQGX4aSWot~o~ZsiiI2RlwPfKQdQL7M7-jJYh0zXOCdmABCfv5zzXdv49hxL~8HNX64GWxyvoFtaEToDl2hR-wixF6s9jWlziYaCRHYbBvhrgj0Jm-Vn6gEsE4-Hl1Ic~6dNjH9EBoaBWi2BIV3KUdciKi4a0oMpSfIJ-kjMY9R4vV6NhHa2kqLrjOkRBLic5LbMqgGE49dwetzu77NT-xFzc9Ds0Kogj91J7GsQAIETN9QbMfuojsVHf9yEaAwLd3GwWT6Mal3w__",
+        "city": "Дубай",
+        "model": "Jaguar XF,  2012"
+    },
+    {
+        "img": "https://s3-alpha-sig.figma.com/img/3263/858a/6d9c6eb946435b4baf7f2b349288a0b6?Expires=1708905600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=U53Hk~OUU8qFJ0SO60QAjQJYEB3MZNdMegW2ObDwNphW7TOTPsK6aQ5CX2Vc1rxC66KYaNaASLaYIQuG422k90a7Z37J~XEEaF~qgJ20niXEpOal0FBboSUMeQQqJuDs800rZX7ylQo9MLY~zL3~wr1cXevE~AanIKMw2xjEhBjssEZpMj0ErIgy2a43-hEe2PjW-czXjaNJHIr1MSX9QzfTyjmG1NrLysftESM32rne17eXChUvsw1GDA3z5rCO1I0oL08PSniGN5oeeBBrouYXbY5t~ZYFGcv0vtUciDMYeQugYmjiCng24oBslWoM96m5HKiHfQpSnlJpavV5~g__",
+        "city": "Дубай",
+        "model": "Toyota RAV4,  2017"
+    },
+    {
+        "img": "https://s3-alpha-sig.figma.com/img/a204/184e/319f59e7bb279320537e7fd69faeffed?Expires=1708905600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=VD5phUgpL6amY0W3yjik4utJZ1WzNnR4C6b5GqllFJ~HLd6ocNufgb6c8-mJr8YGJMp1I~a3rmxX8f9UlNrnswgkHNdu8scgjrT~y3Ls1bY7HZAINauExjaha-VQIDDExR2UP794K7wZz1GQi~OmM-oVrEPbv9kgj3sK9jJW8B2Z5NKUACnvy8arcv0BhV1QjH6p5zYlGj0pdPV6w4CI~ZITRKrZAgxX0n7GFuyidi4ENrkaLvusGzR-tubM2z5sXRK2S3rW7UZ~Yz9WRa1ehp4-IZqn1~LXFDgfI8TqAeMAN6Pjx5U7OyCBxS33f3cPPcA1PQyIc13KByEBIqOBtQ__",
+        "city": "Москва",
+        "model": "2021 Mazda 6, 2021"
+    },
+    {
+        "img": "https://s3-alpha-sig.figma.com/img/a31b/9806/61592bc307d1efaa2fa7eef63d9eb957?Expires=1708905600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ESt8UDAy82nuomt1-bY-FN6dM5lowY1w7QGGN5i-acgRLaVFY4GXo1hEjvVLHYujB4qXs1oxU6BsPix-xdmuzV5fgvxASTVD7QQrx1-ht8sz59Or6p-wamUE0LoDZg-mLiJQatg0BhxUgbJLwnW~6w415PFP6TIqZQNar9xs4WZEx9RrE~FPfStRkHaHu1cB82IIinzH1Lr12NotVZ7AYanmKAmfmBqLfdmFMBkuccClhmGJZPqAThShld4nX0Zu39nZOPSBMmNHsqhHT9RWGdcFBcstYM-RBuOPEyt9jfU66ltoDYCNKQ4rzTmRv6evFiwStiI2Fgn7BQOWUOySXw__",
+        "city": "Москва",
+        "model": "Kia Sportage, 2022"
+    },
+    {
+        "img": "https://s3-alpha-sig.figma.com/img/a39c/4680/5f1bfc7a4af6efab831b4775e78ffe06?Expires=1708905600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=FrRAdZjHCivzvhQfLJonZCjKgc3W28J3dyXRwZWJ0EzU~hwn2RfxfZTtaNB4mEIANo9r~wzvYbChCiRzqGUL1vkopOnsMt~X4YSC4wwVsxwdetu-J-Evbt8ah~ymTAsjxJCtrCqpIRNLUfp3bZ8sT1fIIHllCeoT3dvlNe6zRahBr8G~QdYoDRKSSKqEvj3gUCvKAcLkakWdmIRmJjndnnZA0KuvGHTqK~OnkGMKcFpiyky6yi0GnobyLvgt9n9z2qIZcuZh5pzygHQLZuV0fjrZiTU~iVDEU2JuznghRFLnFlkBNuSuTTEIIJoVTTIEKNPHsT6mHqBf7WoOhimvGA__",
+        "city": "Москва",
+        "model": "Lexus IS, 2018"
+    },
+    {
+        "img": "https://s3-alpha-sig.figma.com/img/7a71/adac/cd05aa1948a8c7612463b233f71e37f2?Expires=1708905600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YvfV3LZZmrwoOuxnXotLMmyfQfKJ8Zw~aaLfWznJXHkUMkcDjoq3MaTc0cUQ4Ox~06ozfCI-wXtm6KvXYcXZY1lIMEx~KvXLexGs7zB1IMGe3masxS4zhikGeJCXJALUYVfUQgFK3Mh~vOUkS0uZk~r9u1D21vCSq34as2RzSBLhUFxmIEpqEQQzepxElWqPLtEoZm1wpCspN4NZKDVfKwNjxj4xUK5aceen4mQcGR-469s9KObt4~Z6T04eed5ao1daew2iVDH5eYA5W~klld~TAEHj1Nj2uyQFJIRwLgsBWcnHuNCLXX8md66uJJyHVoByUyui9bGC0F57UCSPfQ__",
+        "city": "Москва",
+        "model": "BMW X2, 2021"
+    }
+]

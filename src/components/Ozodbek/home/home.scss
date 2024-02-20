@@ -1,0 +1,162 @@
+.home {
+  max-width: 1400px;
+  background-image: url("../images/car-home.jpg");
+  background-size: cover;
+  height: 87vh;
+  background-position: center;
+  margin: 6.2rem 0;
+  border-bottom-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+}
+.home-heading {
+  width: 50%;
+}
+.heading {
+  font-size: 65px;
+  font-family: "Unbounded", sans-serif;
+}
+.linear {
+  border: 1.5px solid white;
+}
+.btn-number {
+  height: 2rem;
+  width: 2rem;
+}
+// buyurtma
+.buyurtma {
+  margin-top: -100px !important;
+  max-width: 1300px;
+  height: 200px;
+  margin: 0 auto;
+  background-color: white;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  border-radius: 1rem;
+}
+.buyurtma-dev {
+  display: grid;
+  grid-template-columns: repeat(
+    6,
+    1fr
+  ); 
+  grid-gap: 1rem;
+}
+.form-group-buyurtma {
+  background-color: #f5f5f5;
+  padding: 1.2rem 1rem;
+  border-radius: 0.4rem;
+}
+.form-group-buyurtma input {
+  border: 0;
+  outline: none;
+  background-color: #f5f5f5;
+}
+.white-nowrap {
+  white-space: nowrap;
+}
+// chekbox input
+input[type="checkbox"] {
+  display: none;
+}
+.check-label {
+  display: inline-block;
+  position: relative;
+  padding-left: 25px;
+  cursor: pointer;
+}
+.check-label:before {
+  content: "";
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  background-color: #ccc;
+  border-radius: 3px;
+  position: absolute;
+  left: 0;
+  top: 1px;
+}
+input[type="checkbox"]:checked + label:before {
+  background-color: black;
+}
+input[type="checkbox"]:checked + label:after {
+  content: "\2713";
+  font-size: 14px;
+  color: #fff;
+  position: absolute;
+  left: 5px;
+  top: -1px;
+}
+.nayti {
+  border: 0;
+  background-image: linear-gradient(to left, #e3d293, #9f7437);
+  color: white;
+  font-weight: bold;
+  border-radius: 0.5rem;
+}
+.numbers {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+// media
+@media (max-width: 1050px) {
+  .linear {
+    width: 80%;
+    margin: 0 auto;
+  }
+  .home-heading {
+    width: 75%;
+  }
+  .buyurtma-dev {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+  }
+  .nayti {
+    grid-column: 1 / span 2;
+  }
+  .form-checkbox {
+    display: flex;
+    justify-content: space-around;
+  }
+  .buyurtma {
+    margin-top: 0 !important;
+    height: 400px;
+  }
+}
+@media (max-width: 800px) {
+}
+@media (max-width: 768px) {
+  .home-heading {
+    width: 100%;
+  }
+  .numbers {
+    width: 80%;
+    row-gap: 1rem;
+  }
+}
+@media (max-width: 576px) {
+  .numbers {
+    display: none;
+  }
+  .buyurtma-dev {
+    display: flex;
+    flex-direction: column;
+  }
+  .heading {
+    font-size: 55px;
+  }
+  .home-heading h5 {
+    font-size: 20px;
+    line-height: 2rem;
+  }
+  .linear {
+    display: none;
+  }
+  .unbounded {
+    text-align: center;
+  }
+  .buyurtma {
+    height: 530px;
+  }
+}
