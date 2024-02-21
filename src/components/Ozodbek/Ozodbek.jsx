@@ -7,6 +7,7 @@ import Loader from './loader/Loader'
 import Title from './title/Title'
 import Background1 from './background1/Background1'
 import Cards from './cards/Cards'
+import Asilbek from '../Asilbek/Asilbek'
 
 const Ozodbek = () => {
   return (
@@ -20,6 +21,7 @@ const Ozodbek = () => {
       <Background1 />
       <Cards />
     </div>
+    <Asilbek />
     </>
   )
 }
