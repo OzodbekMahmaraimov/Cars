@@ -5,6 +5,8 @@ import Home from './home/Home'
 import Buy from './buy/Buy'
 import Loader from './loader/Loader'
 import Title from './title/Title'
+import Background1 from './background1/Background1'
+import Cards from './cards/Cards'
 
 const Ozodbek = () => {
   return (
@@ -15,6 +17,8 @@ const Ozodbek = () => {
       <Home />
       <Buy />
       <Title  />
+      <Background1 />
+      <Cards />
     </div>
     </>
   )

@@ -1,0 +1,7 @@
+.cards {
+    max-width: 1300px;
+}
+.cards .cardlar {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
