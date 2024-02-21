@@ -1,0 +1,99 @@
+.Footer {
+  background-color: #1d1d1d;
+  width: 100%;
+  height: 450px;
+  border-radius: 10px;
+}
+.dcc {
+  margin-top: 5em;
+  width: 280px;
+  margin-left: 10em;
+}
+
+.number {
+  color: white;
+  margin-top: 2em;
+  margin-left: 5em;
+}
+
+.sss {
+  margin-left: 25em;
+  margin-top: -5em;
+}
+
+.moskva {
+  color: rgb(130, 127, 127);
+  margin-left: 10em;
+}
+
+.moskva1 {
+  color: rgb(255, 255, 255);
+  margin-left: 20em;
+}
+
+.haha {
+  color: white;
+  margin-left: 40em;
+  margin-top: -15em;
+  font-family: PP Pangram Sans;
+  font-family: PP Pangram Sans;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+}
+
+.haha0 {
+  color: white;
+  margin-left: 52em;
+  margin-top: -13.5em;
+  font-family: PP Pangram Sans;
+  font-family: PP Pangram Sans;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+}
+.haha1 {
+  color: white;
+  margin-left: 62em;
+  margin-top: -13.5em;
+  font-family: PP Pangram Sans;
+  font-family: PP Pangram Sans;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+}
+.location {
+  margin-top: -10em;
+  margin-left: 8em;
+}
+.mail {
+  margin-left: 7em;
+  margin-top: -5em;
+}
+.vatsap {
+  width: 20px;
+  margin-left: 3em;
+}
+
+.vatsap1 {
+  width: 20px;
+  margin-left: 2em;
+}
+
+.hr1 {
+  position: relative;
+  width: 600px;
+  right: 350px;
+  top: 50px;
+}
+
+.lla {
+  color: rgb(132, 131, 131);
+  margin-left: 40em;
+  margin-top: 5em;
+}
+.lla1 {
+  color: rgb(132, 131, 131);
+  margin-left: 65em;
+  margin-top: -2em;
+}
