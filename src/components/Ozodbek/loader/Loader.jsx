@@ -13,9 +13,11 @@ const Loader = () => {
     }, []);
 
     return (
-        <div className={`loader-container ${loading ? 'visible' : 'hidden'}`}>
-            <span className="loader"></span>
-        </div>
+        <>
+            {/* <div className={`loader-container ${loading ? 'visible' : 'hidden'}`}>
+                <span className="loader"></span>
+            </div> */}
+        </>
     );
 };
 
