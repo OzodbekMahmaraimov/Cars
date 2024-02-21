@@ -1,10 +1,8 @@
 import React from 'react';
-import './past.css'
-
-
-
+import './past.css';
 
 const Javlon = () => { 
+  
   return (
     <div>
       <h1 className='container'>Наши услуги</h1>
@@ -25,7 +23,7 @@ const Javlon = () => {
       <div className='mt-5'>
         <h3 className='text-center '>6 причин заказат аренду авто в  DizRental</h3>
         <div className='d-flex container'>
-         <div className='container qar  d-flex'>
+         <div className='container   qar  d-flex'>
            <img width={'60px'} src="https://s3-alpha-sig.figma.com/img/7f77/5bf1/bc7dcb3600f95468944213aafd92ab38?Expires=1708905600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=qjFyUsqljt2lXqe~8GJmn051NhNpZuryNgjFshrLe9sb5fxe~k9tGCeKlw0uzYspx51AQ6oJCMLd37keYuAk0N3OV5-bINior4DKDs42es5iy2joYLkv7qMlcSezqMUZYFTsBjLW7sDAnNnRK88aclE-cfikKTM4F~rJJjHmbuOCpeWUhUSZYQ2QePQwvAt6kZ-dOLtMbO8l2UOQjvi~vJn8gfIfc~JCi4ILKZ8IOp8B-fWGUwVHWzzNLXJBxZxWzfQBBCelacGHeIFcMj3tYyeSM61DifiCcAjJWI0oRpWLrB1i1VOPxEg1Llqwah3je2k3sZ1fY~CPaX7DiYhnPA__" alt="" />
            <h6 className='mt-1 qar1'>Все наши автомобили застрахованы по<br></br> ОСАГО И КАСКО</h6>
         </div> 
@@ -73,12 +71,39 @@ const Javlon = () => {
         </div>
         <img src="https://s3-alpha-sig.figma.com/img/46ea/23e2/214e146b52a6b7526dc3569a8a544efe?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KMHdJSMJ3SakFwqSn2eI~4x8uvYoUM3sqY3FCWdG~N0ebUFPxKJZWsqKZH-r5i-BeeMrWh4DnC3nQhQMMaaAHFHH3OrjhQlpJarPBXSTJ46VFewgPJ~VTmCi-HrAUIESo4dDVveyXDi-0GVh75xWJ9l98rmouPWPII2fsOeXID7QU1GMwdPJrue2W8zpLsbMtCrj2XclJY-iMSuOiFMAqbYrR9NlEhvT~p2RjGwRX-wno5w6triIZIPmgXuoRi6dkxlevInNGWO9LWfDnAnaO1Y3AuMlwXlauBikzqSxuZ0N~jKrgaKDEouNXva7fzDFhSC9tRAbjcBdK9nKbNH-mw__" alt="" />
       </div>
-       <div className='ertak d-flex '>
-          <img className='' src="https://s3-alpha-sig.figma.com/img/d595/f638/40921ab7a9eb68e693bf9c3b03ef4b1e?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KSieRXS9wHfRxSi8ugI3q0Ak27PlsZmM42C42U6AyK4mmK05grqrGQnAjSjhjsgb9dwhK96GxiWvmUwepC04allzU8ATpJCQU2pD5c86K~Y5epZqm8RZ-QBi4dGWg84lZZjdaZGG6ty~g8nyDkmZgoHtZKm0jZmdtGMbaudvxc6Ktb2MkO-2G-P-owlt-ec8mLXLDV7GzfibCiBWLNdy-aUCpvHBhgr7D43Us8oGuxhepcBsTaA5DlDulJ~rrchUd41aid6Q~gDYvfQNXRLc5RDSYJ99kw3Hv39tbRFUcobfqvH10ibsX1DEUfBdlRv5iqFqJBvaEYlH0T5FAZFuwg__" alt="" />
-          <p>более 8 лет на рынке проката авто</p>
+       <div className='ertak d-flex flex-md-row align-items-center justify-content-center mt-5  '>
+          <img width={'50px'} height={'50px'} src="https://s3-alpha-sig.figma.com/img/d595/f638/40921ab7a9eb68e693bf9c3b03ef4b1e?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KSieRXS9wHfRxSi8ugI3q0Ak27PlsZmM42C42U6AyK4mmK05grqrGQnAjSjhjsgb9dwhK96GxiWvmUwepC04allzU8ATpJCQU2pD5c86K~Y5epZqm8RZ-QBi4dGWg84lZZjdaZGG6ty~g8nyDkmZgoHtZKm0jZmdtGMbaudvxc6Ktb2MkO-2G-P-owlt-ec8mLXLDV7GzfibCiBWLNdy-aUCpvHBhgr7D43Us8oGuxhepcBsTaA5DlDulJ~rrchUd41aid6Q~gDYvfQNXRLc5RDSYJ99kw3Hv39tbRFUcobfqvH10ibsX1DEUfBdlRv5iqFqJBvaEYlH0T5FAZFuwg__" alt="" />
+          <p className='mt-2 ms-2 rang'>более 8 лет на рынке<br></br> проката авто</p>
+          <img width={'50px'} className='ms-5' height={'50px'} src="https://s3-alpha-sig.figma.com/img/96d0/79d5/9a9b77631f31428d4e0f7d851ee682bc?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pGBuI65fqD1trYsTNGc0h0sGizminGoDjWzeqxFk7DPahwMgIuYZmw6wnQF9HfpW3F0H6juN~G~VnluBvfS18MLwdDTdc-ed9Tbi5JnqzJULjAI0Y3Kmf478KGdShr7JR30CnAUcdfCYW9Z7e2DZrVcg8AbyBTebe0BJ63UfMv03mPDAeaZaIAKVF6u4Rp3QXAYXRjhIESO6rfAv0TFQsoyENJ3n-rRSiUA-7C3eIl7-fAt~ft3NMgZU-2~OJrWYK2Vxr8DbZXa2ksoyJ3v01H4vEZMhiRFme~8o53UONHp9aQvmo~d8izCX~DA1SdDJzNXKYFZZ872nDkY8qMT8VA__" alt="" />
+          <p className=' mt-2 ms-2 rang'>более 8 лет на рынке<br></br> проката авто</p>
+          <img width={'50px'} className='ms-5' height={'50px'} src="https://s3-alpha-sig.figma.com/img/138a/2012/5b05d94ea6a388413ae4ab7c55b13c71?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dOp4SMxBAPpS1iONCLirDrZ1myjOEcF3n-K~BWbh4TZ~324ZBRAAnL61pxEtWaL0SR3qQ8JU6AzZVeg3K9jGYAYRIiw1EI6o7KXckVGJW2O5UZNjcwFpBk72mOFJ4Bij6izTV37jWS0TnIv8IWjwtz7thORZAZc8FxQjhdHdI76Mw3EgcdLw5qliKNE0ZVv8f8D12GriKPUk-Sh~BmVpan-qcD0bTTZ9N9aw6n7e1B2PVc2tdRLuqFG4pYsOjeCklHEoMuqTVeRzvCn7McVgpcRsJqT0VcY6uRx2nXK2LEaaymZdbPDi~1yVgTGGviUrr8zbnFzwFnIrOZuv2efJeg__" alt="" />
+          <p className='mt-2 ms-2   rang'>более 8 лет на рынке<br></br> проката авто</p>
        </div>
-      </div>
-    </div>
+       <div className='mt-5'>
+            <h1 className='text-center'>Бренды машин нашего автопарка</h1>
+            <div className='kards'>
+              <img width={'100%'} src="https://s3-alpha-sig.figma.com/img/0d3a/49e7/3a5ec3cce0fdcf35fdeec7981fc964a4?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BExdMi9e0Td0Gv~0-MoT5fcqOPIdD5ypWMbaCfH5YW4pJJXAQyDiBY-HvNgqmfBuxTsNk15ToYgxDzskI7tFPFD1oYQMOFynhTyV~mCcejCwJ6TxkU46HGO5Z840cGilZQ1zvpY0rRbDeq0hGqSAGN9dD-yo7zRPwTHa1U4f1k~Af7jzDUvKKSIsUqbcQHPA6KMBiwgIItlCdxBLH3UVp2NxXw6hLQky776JqUqcZI-KJ1fdGWE8Zl3hiARxlYUPvF031hoTpw~LNUyjeiOOQV2a5XheL-KfNKphjprVhJD78cK~Adpz0f2Rc8B4D9bmr2OWf8dy~Vp87MreJyN-aQ__" alt="" />
+
+            </div>
+       </div>
+       <div className='baground  ' >
+         <div className='container rang d-flex flex-row align-items-center text-center '>
+            <h1 className='mt-5'>Остались вопросы?</h1>
+         </div>
+         <div className='' />
+             <p className='rang  container '>Менеджер свяжется с вами в течении 15 минут и сможет ответить <br></br>на все интересующие вопросы</p>
+             <h2 className=' container rang'>+7 (499) 110-20-47</h2>
+         </div>
+         <div className='smal'>
+           <input type='text' placeholder=' имя'/> 
+           <input type='number'className='mt-3'  placeholder=' телефон'/><br></br> 
+           <button className='btn btn-success mt-4  '>ЗАБРОНИРОВАТЬ</button>
+
+         </div>  
+        </div>
+       </div>
+
+
 
   )
 }
