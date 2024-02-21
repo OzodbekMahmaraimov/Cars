@@ -55,16 +55,16 @@
     margin-top: 1em;
 }
 
-.chack{
-    width: 50px;
-    height: 15px;
-    margin-left: 37em;
+.check{
+    margin-left: 40em;
     margin-top: 1em;
+    background-color: white;
+    color: white;
 }
 
 .otpravit{
     margin-left: 40em;
     font-weight: 500;
     line-height: 10px;
-    margin-top: -1.1em;
+    margin-top: 1em;
 }

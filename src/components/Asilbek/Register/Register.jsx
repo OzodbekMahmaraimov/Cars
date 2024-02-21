@@ -16,11 +16,12 @@ function Register() {
                 <button className="Забронировать">Забронировать</button>
                 
                 </div>
-                <input className="chack" type="checkbox"/>
+               
                 <div className="otpravit">
                 <p>Отправляя форму, я соглашаюсь</p>
                 <p>с политикой обработки персональных данных</p>
                 </div>
+                <input className="check" type="checkbox"/>
             </div>
         </>
     );

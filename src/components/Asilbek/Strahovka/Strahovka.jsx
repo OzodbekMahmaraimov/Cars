@@ -13,6 +13,7 @@ function Straxovka() {
             <h1>6 причин заказат</h1>
             <h1> аренду авто в  DizRental</h1>
             </div>
+            <div className='Boshi'>
             <div className='Страховка'>
                   <img className='St-image' src={St} alt="" />
             <div className='St'>
@@ -64,7 +65,8 @@ function Straxovka() {
             <h4>Скорость</h4>
             <p className='vse'>Оформление аренды любого авто в </p>
             <p className='Po'>течении не более 15 минут</p>
-            </div>       
+            </div> 
+            </div>      
             </div>
         </>
      );
