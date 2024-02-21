@@ -2,11 +2,10 @@ import React from 'react';
 import './past.css';
 
 const Javlon = () => { 
-  
   return (
     <div>
       <h1 className='container'>Наши услуги</h1>
-      <div className='d-flex justify-content-center gap-4 mt-5  joylashuv'>
+      <div className='d-flex justify-content-center gap-4   joylashuv'>
         <div className='box  chiq'>
           <img width={'325px'}  src='https://s3-alpha-sig.figma.com/img/f71f/6b2a/e265c7ec92a613ed9cb75649b7a289b8?Expires=1708905600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DBCy5hXGLZ-VMH-CQBrCwOdGf1zNV41zYvNbL-8WXsIyced7PjDYVwSzzGNeJUeYsgZz7IBQpvWhg-UlB2s0gyfyVNctKfWT99gYWox6boPI7vV0us3xjBbWCaJPUJfhSZwd5vBeh3rZcowvqzjP4ijIt1JbAFKxzCmf73rPTyPze3D0mhgKupEeMAAMnPL8hxE9TzoRYWchzIoSbSLHJhQKOYDSuLSXlGR6w-GdIHKxQ8RESnwnITJs0btgApCHUFBb73hx5QLt-wvU0ymkwcztEGR0lKI3zPMC~1dcPGFafVW-tMq2CxA9YBGClA1Ns8lpGsfjcbF-NDoBCx886Q__' alt="rasm" />
           <h6 className='text-center mt-2'>Доставляем авто в любую точку Москвы</h6>
@@ -97,7 +96,7 @@ const Javlon = () => {
          <div className='smal'>
            <input type='text' placeholder=' имя'/> 
            <input type='number'className='mt-3'  placeholder=' телефон'/><br></br> 
-           <button className='btn btn-success mt-4  '>ЗАБРОНИРОВАТЬ</button>
+           <button className='btn btn-success mt-3  '>ЗАБРОНИРОВАТЬ</button>
 
          </div>  
         </div>
