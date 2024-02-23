@@ -28,3 +28,12 @@
 .cardlar button:hover {
     background: #F1F1F1;
 }
+
+@media (max-width: 768px) {
+    .cards .cardlar {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .cardBody {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}

@@ -26,4 +26,4 @@ const Ozodbek = () => {
   )
 }
 
-export default Ozodbek
+export default Ozodbek; 

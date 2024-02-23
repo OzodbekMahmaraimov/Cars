@@ -9,26 +9,26 @@ import { FaArrowRight } from "react-icons/fa6";
 const Cards = () => {
     return (
         <section className='cards mx-auto mt-5'>
-            <h1 className='py-5 unbounded lh-base'>Аренда премиум автомобилей <br /> для мероприятий</h1>
+            <h1 className='py-lg-5 py-2 unbounded lh-base'>Аренда премиум автомобилей <br /> для мероприятий</h1>
             <div className='cardlar w-100'>
-                <Card style={{ width: '100%' }}>
+                <Card className='mx-auto w-100'>
                     <LazyLoadImage className='img-fluid card-img pointer' src={card1} effect='blur' alt="..." />
                     <CardBody className='cardBody'>
-                        <div className='d-flex flex-column justify-content-between'>
+                        <div className='d-flex flex-column justify-content-around'>
                             <h4>Аренда авто на свадьбу</h4>
                             <p>Предоставляем аренду премиальных автомобилей для свадьбы с водителем</p>
                         </div>
-                        <button className='rounded-circle mx-auto my-auto'><FaArrowRight fontWeight="400" /></button>
+                        <button className='rounded-circle mx-lg-auto my-auto'><FaArrowRight fontWeight="400" /></button>
                     </CardBody>
                 </Card>
-                <Card style={{ width: "100%" }}>
+                <Card className='mx-auto w-100'>
                     <LazyLoadImage className='img-fluid card-img pointer' src={card2} effect='blur' alt="..." />
                     <CardBody className='cardBody'>
-                        <div className='d-flex flex-column justify-content-between'>
+                        <div className='d-flex flex-column justify-content-around'>
                             <h4>Аренда авто для фотосессий</h4>
                             <p>Предоставляем аренду премиальных автомобилей для фотосессий или видеосъемки</p>
                         </div>
-                        <button className='rounded-circle mx-auto my-auto'><FaArrowRight fontWeight="400" /></button>
+                        <button className='rounded-circle mx-lg-auto my-auto'><FaArrowRight fontWeight="400" /></button>
                     </CardBody>
                 </Card>
             </div>
