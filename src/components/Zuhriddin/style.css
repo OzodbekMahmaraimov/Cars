@@ -10,18 +10,18 @@
 }
 
 .img-1 {
-    width: 654px;
+    width: 600px;
     margin-top: 2%;
-    margin-left: 42px;
+    margin-left: 4%;
     height: 299px;
 }
 
 .div-1 {
     position: relative;
-    margin-left: -43%;
+    margin-left: -39.5%;
     top: -8px;
     color: white;
-    width: 43%;
+    width: 600px;
     height: 299px;
     background-color: rgba(0, 0, 0, 0.5);
     z-index: 1;
@@ -48,18 +48,18 @@
 }
 
 .img-2 {
-    width: 654px;
+    width: 600px;
     margin-top: 2%;
-    margin-left: 3%;
+    margin-left: 8%;
     height: 299px;
 }
 
 .div-2 {
     position: relative;
-    margin-left: -43%;
+    margin-left: -39.5%;
     top: -2px;
     color: white;
-    width: 43%;
+    width: 39.5%;
     height: 299px;
     background-color: rgba(0, 0, 0, 0.5);
     z-index: 1;
@@ -157,7 +157,7 @@
     background-color: black;
     color: white;
     margin-top: -100px;
-    height: 100vh;
+    height: 105vh;
 }
 
 .h1-3 {
@@ -177,21 +177,21 @@
     margin-left: -520px;
     margin-top: 0px;
     width: 520px;
-    height: 200px;
+    height: 250px;
     position: relative;
-    top: 17px;
+    top: -5px;
 }
 
 .div-6-1 p {
     font-size: 20px;
     position: relative;
-    top: 70px;
-    left: 20px;
+    top: 100px;
+    left: 40px;
 }
 
 .div-6-1 h3 {
     position: relative;
-    left: 20px;
+    left: 40px;
     top: 5px;
 }
 
@@ -206,21 +206,21 @@
     margin-left: -520px;
     margin-top: 0px;
     width: 520px;
-    height: 200px;
+    height: 280px;
     position: relative;
-    top: 20px;
+    top: 0px;
 }
 
 .div-7-1 p {
     font-size: 20px;
     position: relative;
-    top: 70px;
-    left: 20px;
+    top: 100px;
+    left: 40px;
 }
 
 .div-7-1 h3 {
     position: relative;
-    left: 20px;
+    left: 40px;
     top: 35px;
 }
 
