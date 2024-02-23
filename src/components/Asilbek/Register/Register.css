@@ -1,0 +1,70 @@
+.Body{
+    margin-top: 10em;
+}
+
+.usul{
+    margin-left:10em;
+    width: 400px;
+    height: 530px;
+    margin-top: -5em;
+}
+
+.Vopros{
+    margin-left: 15em;
+    margin-top: -13em;
+    font-family: Unbounded;
+}
+
+.VAmi{
+    font-weight: 500;
+    line-height: 20px;
+    margin-left: 38em;
+    color: #999;
+    margin-top: 3em;
+}
+.Nol{
+    color: black;
+    margin-top: 1EM;
+}
+.Виктор{
+    width: 500px;
+    height: 50px;
+    margin-top: 2em;
+    border: none;
+    color: black;
+    border-radius: 5px;
+}
+
+.Виктор1{
+    width: 500px;
+    height: 50px;
+    margin-top: 1em;
+    border: none;
+    color: black;
+    border-radius: 5px;
+}
+
+.Забронировать{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    width: 500px;
+    border: none;
+    height: 50px;
+    border-radius: 5px;
+    margin-top: 1em;
+}
+
+.check{
+    margin-left: 40em;
+    margin-top: 1em;
+    background-color: white;
+    color: white;
+}
+
+.otpravit{
+    margin-left: 40em;
+    font-weight: 500;
+    line-height: 10px;
+    margin-top: 1em;
+}

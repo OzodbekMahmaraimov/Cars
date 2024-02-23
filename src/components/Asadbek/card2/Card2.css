@@ -1,0 +1,58 @@
+.car6{
+    width: 100%;
+    height: 389px;
+    margin-top: 3em;
+}
+.car-y9{
+color: white;
+font-size: 43px;
+margin-top: -8.2em;
+margin-left: 1.5em;
+
+}
+.box-y1{
+    color: white;
+    font-size: 20px;
+    margin-left: 3.2em;
+    margin-top: 2em;
+}
+.y-1{
+    margin-top: -.9em;
+}
+.input{
+    width: 504px;
+    height: 69px;
+    background: rgba(255, 255, 255, .3);
+   backdrop-filter: blur(1px);
+   border-radius: 15px;
+   border: none;
+   margin-left: 48em;
+    position: absolute;
+    top: 1780px;
+
+}
+
+.input2{
+    width: 504px;
+    height: 69px;
+   backdrop-filter: blur(1px);
+   background: rgba(255, 255, 255, .3);
+   border-radius: 15px;
+   border: none;
+   margin-left: 48em;
+    position: absolute;
+    top: 1870px;
+
+}
+
+.button3{
+    width: 504px;
+    height: 69px;
+    background-color: #477524;
+    border-radius: 15px;
+    border: none;
+    margin-left: 48em;
+    position: absolute;
+    top: 1960px;
+    color: white;
+}

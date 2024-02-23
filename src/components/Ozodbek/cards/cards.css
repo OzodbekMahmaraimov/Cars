@@ -1,0 +1,30 @@
+.cards {
+    max-width: 1300px;
+}
+.cards .cardlar {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+}
+.cardlar .card-img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+.cardBody {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.cardBody p {
+    color: #989898;
+}
+.cardlar button {
+    width: 3.5rem;
+    height: 3.5rem;
+    border: 2px solid #EBEBEB;
+    background: transparent;
+    transition: all 0.2s linear;
+}
+.cardlar button:hover {
+    background: #F1F1F1;
+}

@@ -3,7 +3,7 @@ import { Route, Routes } from "react-router-dom";
 import Asadbek from './components/Asadbek/Asadbek';
 import Ozodbek from './components/Ozodbek/Ozodbek';
 import Asilbek from './components/Asilbek/Asilbek';
-import Javlon from './components/Javlon/Javlon';
+import Javlon from './components/Javlon/past';
 import Muhammad from './components/Muhammad/Muhammad';
 import Zuhriddin from './components/Zuhriddin/Zuhriddin';
 

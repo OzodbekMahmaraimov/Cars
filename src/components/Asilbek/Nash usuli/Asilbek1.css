@@ -1,0 +1,47 @@
+
+.Pages{
+    position: absolute;
+    left: 150px;
+    top: 40px;
+    color: black;
+    font-family: "Unbounded", sans-serif;
+}
+
+.Kalit{
+    width: 350px;
+    height: 410px;
+} 
+
+
+.box{
+  margin-left: 9.1em;
+ margin-top:5em;
+    
+} 
+
+  .Arow{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    border: 1px solid rgb(120, 119, 119);
+    border-radius: 50px;
+    margin-left: 17em;
+    margin-top: -2.5em;
+  }
+
+
+.box1{
+    margin-left: 35em;
+    margin-top: -14.5em;
+      
+  } 
+  .Kalit1{
+    width: 350px;
+    height: 413px;
+} 
+
+.box2{
+  margin-left: 60em;
+  margin-top: -30em;
+    
+} 
