@@ -6,7 +6,7 @@ const Page2 = () => {
   return (
     <>
      <Ozodbek />   
-     <Asilbek />
+     {/* <Asilbek /> */}
     </>
   )
 }
